@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background-color: #333;
+    padding: 25px;
+}
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 23px;
+}
+.container {
+    margin-top: 20px;
+}
+img {
+    max-width: 25%;
+    height: auto;
+}
+h1 {
+    font-size: 36px;
+    margin-top: 10px;
+}
+.container-center {
+    margin-top: 20px;
+}
